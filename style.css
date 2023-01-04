@@ -1,11 +1,5 @@
-h1 {
-    color: pink; 
-}
 
-.link {
-    color: red; 
-}
 
-.header {
-    color: pink; 
+.navItem {
+    display: inline
 }
