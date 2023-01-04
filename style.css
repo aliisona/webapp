@@ -3,3 +3,7 @@
 .navItem {
     display: inline
 }
+
+#navList {
+    text-align: right
+}
