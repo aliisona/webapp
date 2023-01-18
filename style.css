@@ -18,3 +18,9 @@
 #navList {
     text-align: right; 
 }
+
+/* The dropdown container */
+.dropdown {
+    float: left;
+    overflow: hidden;
+  }
