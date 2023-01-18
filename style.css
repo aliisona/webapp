@@ -23,3 +23,16 @@
 .dropdown {
     overflow: hidden;
   }
+
+
+  /* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones, receives font family of the body*/
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
