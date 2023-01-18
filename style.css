@@ -21,6 +21,6 @@
 
 /* The dropdown container */
 .dropdown {
-    float: left;
+    float: right;
     overflow: hidden;
   }
